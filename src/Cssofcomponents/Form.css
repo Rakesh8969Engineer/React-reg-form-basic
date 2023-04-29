@@ -1,0 +1,22 @@
+.header {
+    text-align: center;
+
+}
+
+.main-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+height: 250px;
+background-color: whitesmoke;
+}
+button{
+width: 100%;
+background-color: pink;
+
+}
+input{
+width: 100%;
+
+}
